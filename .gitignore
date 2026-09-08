@@ -1,0 +1,14 @@
+# Archivos compilados y caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales (donde se instalan librerías en el futuro)
+venv/
+env/
+.env
+
+# Archivos del sistema operativo (comunes en Windows/Mac)
+.DS_Store
+Thumbs.db
